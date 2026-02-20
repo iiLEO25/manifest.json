@@ -1,21 +1,11 @@
 {
-  "id": "com.myrepo.nuvio.extension",
-  "name": "CNCVerse Nuvio Extension",
-  "version": "1.0.0",
-  "description": "Multi-source Extension for CNC, Rivestream and Arabic Sites",
+  "name": "CNCVerse & Rive Repo",
+  "description": "All in one repo for Nuvio",
   "metadataVersion": 1,
+  "status": 1,
   "pluginLists": [
-    {
-      "name": "CNC Main Source",
-      "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/builds/CNC.json"
-    },
-    {
-      "name": "Global Sources (Rivestream)",
-      "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/master/repo.json"
-    },
-    {
-      "name": "Arabic Sources",
-      "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-multilingual/builds/arabic-repo.json"
-    }
+    "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/master/repo.json",
+    "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-multilingual/builds/arabic-repo.json",
+    "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/builds/CNC.json"
   ]
 }
