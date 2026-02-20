@@ -1,11 +1,8 @@
 {
-  "name": "CNCVerse & Rive Repo",
-  "description": "All in one repo for Nuvio",
+  "name": "CNCVerse Multi-Repo",
   "metadataVersion": 1,
-  "status": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/master/repo.json",
-    "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-multilingual/builds/arabic-repo.json",
-    "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/builds/CNC.json"
+    "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/repo.json",
+    "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-multilingual/builds/arabic-repo.json"
   ]
 }
